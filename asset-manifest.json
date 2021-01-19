@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactCalculator/static/css/main.a39ddae4.chunk.css",
+    "main.js": "/reactCalculator/static/js/main.01c3f37a.chunk.js",
+    "main.js.map": "/reactCalculator/static/js/main.01c3f37a.chunk.js.map",
+    "runtime-main.js": "/reactCalculator/static/js/runtime-main.dad8860b.js",
+    "runtime-main.js.map": "/reactCalculator/static/js/runtime-main.dad8860b.js.map",
+    "static/js/2.0c9df866.chunk.js": "/reactCalculator/static/js/2.0c9df866.chunk.js",
+    "static/js/2.0c9df866.chunk.js.map": "/reactCalculator/static/js/2.0c9df866.chunk.js.map",
+    "static/js/3.ad6157ef.chunk.js": "/reactCalculator/static/js/3.ad6157ef.chunk.js",
+    "static/js/3.ad6157ef.chunk.js.map": "/reactCalculator/static/js/3.ad6157ef.chunk.js.map",
+    "index.html": "/reactCalculator/index.html",
+    "static/css/main.a39ddae4.chunk.css.map": "/reactCalculator/static/css/main.a39ddae4.chunk.css.map",
+    "static/js/2.0c9df866.chunk.js.LICENSE.txt": "/reactCalculator/static/js/2.0c9df866.chunk.js.LICENSE.txt",
+    "static/media/outputRow.css": "/reactCalculator/static/media/digital-7.93911ab1.ttf",
+    "static/media/technocrop.png": "/reactCalculator/static/media/technocrop.2d153e6d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dad8860b.js",
+    "static/js/2.0c9df866.chunk.js",
+    "static/css/main.a39ddae4.chunk.css",
+    "static/js/main.01c3f37a.chunk.js"
+  ]
+}
